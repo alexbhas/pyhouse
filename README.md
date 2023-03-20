@@ -22,4 +22,5 @@ And enter a website into the field provided to generate a report!
 
 # 
 
-I plan to add more features later on.
+I plan to add more features later on, such as more detailed reports with graphs, etc.
+I'm well aware of the Lighthouse port called pyhouse, but I came up with this name without knowing that!
