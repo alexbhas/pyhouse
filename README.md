@@ -17,3 +17,5 @@ pip install -r requirements.txt
 ```
 streamlit run pyhouse.py
 ```
+
+And enter a website into the field provided to generate a report!
