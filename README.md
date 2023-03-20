@@ -1,6 +1,6 @@
 # pyhouse
 
-A python application that analyzes the accessibility of a webpage, similarly to Lighthouse
+A python application that analyzes the accessibility of a webpage, similarly to Lighthouse.
 
 Currently supports checking for:
 - Title Tag
